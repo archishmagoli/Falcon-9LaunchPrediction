@@ -1,8 +1,8 @@
-# SpaceXLaunchPrediction
+# SpaceX Falcon 9 Launch and Landing Predictions
 ## Introduction
 In this project, I accomplished the following:
-- Extracted datasets through an open-source **SpaceX REST API** and used **web scraping** with Python's **BeautifulSoup** to gather additional historical data on SpaceX launch and landing proceedings from 2010 to 2020.
-- Conducted exploratory data analysis through SQL, Matplotlib, and Pandas.
+- Extracted datasets through an open-source **SpaceX REST API** and used **web scraping** with Python's **BeautifulSoup** to gather additional historical data on SpaceX launch and landing proceedings for the **Falcon 9 rocket** from 2010 to 2020.
+- Conducted exploratory data analysis through SQL, Matplotlib, and Pandas, extracting relationships between **key performance variables** like payload mass, orbit type, launch site, and mission status.
 - Created visualizations using **Folium** and generated an interactive analytical dashboard of results with Python’s **Plotly** and **Dash** frameworks.
 - Trained **three different machine learning models** (Decision Tree Classifier, K-Nearest Neighbors, and SVM) and analyzed which would be the most accurate at predicting whether a given launch would land the first stage successfully.
 - Generated a [sample stakeholder report](https://drive.google.com/file/d/1mKddFqZFriQnDtG0Hwblvcj-6O_pqPzG/view?usp=sharing) with important conclusions and visualizations generated from overall data analytics and visualizations.
