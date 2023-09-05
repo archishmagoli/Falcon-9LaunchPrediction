@@ -5,7 +5,7 @@ In this project, I accomplished the following:
 - Conducted exploratory data analysis through SQL, Matplotlib, and Pandas, extracting relationships between **key performance variables** like payload mass, orbit type, launch site, and mission status.
 - Created visualizations using **Folium** and generated an interactive analytical dashboard of results with Python’s **Plotly** and **Dash** frameworks.
 - Trained **three different machine learning models** (Decision Tree Classifier, K-Nearest Neighbors, and SVM) and analyzed which would be the most accurate at predicting whether a given launch would land the first stage successfully.
-- Generated a [sample stakeholder report](https://drive.google.com/file/d/1mKddFqZFriQnDtG0Hwblvcj-6O_pqPzG/view?usp=sharing) with important conclusions and visualizations generated from overall data analytics and visualizations.
+- Generated a [sample stakeholder report](https://drive.google.com/file/d/1mKddFqZFriQnDtG0Hwblvcj-6O_pqPzG/view?usp=sharing) with important conclusions generated from overall data analytics and visualizations.
 
 Overall, it was determined that across 2010-2020, approximately **two-thirds** of all SpaceX launches typically landed their first stages successfully.
 
